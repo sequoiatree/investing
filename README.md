@@ -6,3 +6,4 @@ Setup:
 2. make a virtualenv and login
 3. pip install -r requirements.txt
 4. pip install -e .
+5. python -i project/scripts/simulate.py
